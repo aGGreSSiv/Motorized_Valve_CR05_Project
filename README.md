@@ -1,4 +1,10 @@
-# Motorized Valve (CR05) Control with Home Assistant & ESPHome
+# Motorized Valve (CR05) Control 🚰
+
+![Platform](https://img.shields.io/badge/Platform-ESPHome-orange)
+![Hardware](https://img.shields.io/badge/Hardware-ESP32-green)
+![Device](https://img.shields.io/badge/Device-CR05_Valve-blue)
+[![AliExpress](https://img.shields.io/badge/Buy_Now-AliExpress-red)](https://www.aliexpress.com/item/1005006683654073.html)
+
 
 This project integrates a **CR05 Motorized Valve** into Home Assistant using an ESP32 and ESPHome. It provides a reliable alternative to solenoid valves, especially for water with high limescale content where solenoids often fail.
 
