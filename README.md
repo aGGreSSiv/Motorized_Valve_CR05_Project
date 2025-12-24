@@ -77,5 +77,4 @@ If using multiple valves, consider adding a master valve for the main water inle
 *   `valve_control.yaml`: The complete ESPHome configuration file.
 *   `images/`: Contains the connection diagrams.
 
----
-*Ready for GitHub deployment.*
+
